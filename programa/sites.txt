@@ -1,5 +1,9 @@
-1, 3, 4
+1
 google 
 https://www.google.com/search?q='
 wikipedia 
 https://pt.wikipedia.org/wiki/
+Dicionario
+https://dicionario.priberam.org/
+Google Academico
+https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=
