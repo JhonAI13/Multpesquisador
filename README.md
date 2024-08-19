@@ -49,7 +49,7 @@ Dê `push` dos arquivos na pasta `programas`
 10. Linguee
 
 # Coisas a implementar
-- [ X ] 5 sites no mínimo
+- [ x ] 5 sites no mínimo
 - [ x ] Um sistema para escolher os sites.
 - [ x ] Conseguir rodar no terminal
 - [ x ] Salvar os escolhidos.
