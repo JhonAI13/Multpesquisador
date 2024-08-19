@@ -4,8 +4,8 @@ O **Multpesquisador** é uma ferramenta poderosa que automatiza a abertura de m�
 
 ## Motivação
 
-- **Aprimorar habilidades em Python**: O desenvolvimento do Multpesquisador foi motivado pela vontade de praticar e consolidar conhecimentos em Python.
-- **Ferramenta de uso diário**: Criado com o objetivo de ser utilizado diariamente, especialmente para estudos de inglês, agilizando o acesso a recursos variados de aprendizado.
+- **Aprimorar habilidades em Python**
+- **Ferramenta de uso diário**
 
 ## Diferenciais
 
