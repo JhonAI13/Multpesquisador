@@ -1,11 +1,16 @@
 # Multpesquisador v1.0.1
-É um programa que abre varias pesquisa em varias abas e cada aba sites diferentes.
-# Motivação
-- Treinar python.
-- Ter um programa que eu irei usar diariamente(para estudar inglês).
-# Diferencial
-- Alem de pesquisar como o proprio google.
-- Meu programa consegue pesquisar em varios sites.
+
+O **Multpesquisador** é uma ferramenta poderosa que automatiza a abertura de múltiplas pesquisas em diferentes sites, distribuindo-as em várias abas do navegador. Desenvolvido para otimizar seu processo de busca, o programa facilita a consulta de informações em diversas fontes simultaneamente.
+
+## Motivação
+
+- **Aprimorar habilidades em Python**: O desenvolvimento do Multpesquisador foi motivado pela vontade de praticar e consolidar conhecimentos em Python.
+- **Ferramenta de uso diário**: Criado com o objetivo de ser utilizado diariamente, especialmente para estudos de inglês, agilizando o acesso a recursos variados de aprendizado.
+
+## Diferenciais
+
+- **Busca em múltiplos sites**
+- **Automatização e praticidade**
 # Como usar
 ### O que instalar.
 Instale o python
