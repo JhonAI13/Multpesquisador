@@ -1,9 +1,21 @@
-1
+10
 google 
 https://www.google.com/search?q='
+Google translate ptbr -> en
+https://translate.google.com.br/?hl=pt-BR&sl=auto&tl=en&text=
+Google translate en -> ptbr
+https://translate.google.com.br/?hl=pt-BR&sl=en&tl=pt&text=
+Google Academico
+https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=
 wikipedia 
 https://pt.wikipedia.org/wiki/
 Dicionario
 https://dicionario.priberam.org/
-Google Academico
-https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=
+Pinterest
+https://br.pinterest.com/search/pins/?q=
+tatoeba
+https://tatoeba.org/pt-br/sentences/search?from=por&query=
+forvo
+https://pt.forvo.com/search/
+Linguee
+https://www.linguee.com.br/portugues-ingles/search?source=auto&query=
