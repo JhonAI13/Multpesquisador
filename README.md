@@ -15,7 +15,7 @@ O **Multpesquisador** é uma ferramenta poderosa que automatiza a abertura de m�
 ### O que instalar.
 Instale o python
 
-Dê `push` dos arquivos na pasta `programas`
+Dê `push` dos arquivos na pasta `programa`
 ### Oque configurar
 ![configuração](https://github.com/user-attachments/assets/dea690b3-4c93-452e-8699-8683aa03622d)
 ![configuração 2](https://github.com/user-attachments/assets/c947ef97-f7ba-44db-9a35-fccf989785cf)
