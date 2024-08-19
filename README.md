@@ -1,4 +1,4 @@
-# Multpesquisador v1.0.0
+# Multpesquisador v1.0.1
 É um programa que abre varias pesquisa em varias abas e cada aba sites diferentes.
 # Motivação
 - Treinar python.

@@ -2,6 +2,7 @@ import webbrowser, time, sys
 
 txt = 'C:\\Users\\jonat\\Documents\\GitHub\\Multpesquisador\\programa\\sites.txt'
 
+
 def reescrever_primeira_linha(caminho_arquivo, nova_linha):
     # Lê o conteúdo do arquivo
     with open(caminho_arquivo, 'r') as arquivo:
@@ -63,7 +64,7 @@ def interface(caminho_arquivo):
                         l += 1
                 n += 1
         
-        resposta = str(input('Quais sites quer? \n')).strip()
+        resposta = str(input('Quais sites quer? ex:(1,4,6)\n')).strip()
         reescrever_primeira_linha(caminho_arquivo, resposta)
         lista = txt_para_lista(caminho_arquivo, lista)
     else:
